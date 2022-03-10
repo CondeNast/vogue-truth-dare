@@ -1,14 +1,14 @@
-// import Canela from "./Canela-Regular.woff"
+import LuckiestGuy from "./LuckiestGuy-Regular.ttf"
 
 const fonts = {
   "@font-face": [
-    // {
-    //   fontFamily: "Canela",
-    //   src: `url('${Canela}') format("woff")`,
-    //   fontWeight: 600,
-    //   fontStyle: "normal",
-    //   fontDisplay: "swap",
-    // },
+    {
+      fontFamily: "LuckiestGuy",
+      src: `url('${LuckiestGuy}') format("woff")`,
+      fontWeight: 400,
+      fontStyle: "normal",
+      fontDisplay: "swap",
+    },
   ],
 }
 
